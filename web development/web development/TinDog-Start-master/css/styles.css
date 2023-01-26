@@ -28,14 +28,14 @@ p{
     padding-right: 0;
 }
 
-/* Navingation Bar */
+/* Navigation Bar */
 
 .navbar-brand{
     font-family: 'Ubuntu';
     font-size: 2.5rem !important;
     font-weight: bold;
     position: relative;
-    left: 250px;
+    left: 258px;
 }
 
 #title{
@@ -47,15 +47,27 @@ p{
 
 }
 
-.linkbutton{
+.btn{
+    accent-color:black;
     position: relative;
-    right: 50%;
+    right: auto;
+    top: 1.4rem;
 }
+
+.btn-block-2{
+    accent-color:black;
+    margin-bottom: 10px;
+    position: relative;
+    top:auto;
+    bottom: 0.3rem;
+}
+
 .col-lg-6-1{
     padding: 3% 50% 3%;
     width: 10%;
     position: relative;
     right: 100px;
+    flex-wrap: wrap;
 }
 
 .col-lg-6-2{
@@ -205,11 +217,12 @@ p{
 
 .card{
     width: 350px;
-    height: 300px;
+    height: 310px;
 }
 
 .card-body{
-    padding-left: 300px;
+    flex: 1,1,1;
+    padding: 1rem 1rem 1rem;
 }
 
 #pricing{
@@ -225,12 +238,33 @@ p{
     font-family: "Montserrat";
     font-size: 3rem;
     line-height: 1.5;
+    position: relative;
+    bottom: 2.5rem;
     text-align: center;
 }
 
-.price-text{
+.card-header{
+    font-family: "Montserrat";
     font-size: 3rem;
-    line-height: 1.5;
+}
+
+.card-header-2{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    margin: 2px,2px,2px,2px;
+    position: relative;
+    top: 0.7rem;
+}
+
+.price-text{
+    font-size: 1.7rem;
+    line-height: 2.4rem;
+}
+
+.price-text-2{
+    font-size: 1.7rem;
+    margin-bottom:0.9rem;
+    line-height: 1.2rem;
 }
 
 /* Call to action */
@@ -270,4 +304,6 @@ p{
     }
 
 }
+
+
 
