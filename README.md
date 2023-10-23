@@ -1,6 +1,7 @@
 ### Hi there Moneeb this side nice to have you on my profile 👋 
 I am a tech enthusiast from an yearly age in my school and love to learn and use new technologies.
-I am interested in web dev and AI/Machine Learning
+I am interested in web dev and AI/Machine Learning.
+Hope for collaboration and insights from you all.
 
 <!--
 **muneeb2560/muneeb2560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
